@@ -1,0 +1,7 @@
+amount;urgent;risk;personal;expected_route
+0;false;LOW;true;SECURITY_REVIEW
+600000;false;HIGH;false;DIRECTOR_REVIEW
+500000;false;LOW;false;FINANCE_REVIEW
+10000;true;LOW;false;FAST_TRACK
+20000;true;LOW;false;STANDARD
+
